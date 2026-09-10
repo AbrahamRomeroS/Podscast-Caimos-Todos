@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b4b7226861f46577",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inicio 10.09.2026/Contrato.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Contrato"
-            }
-          },
-          {
-            "id": "959dea2f21c1b799",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inicio 10.09.2026/Contrato.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Contrato"
-            }
-          },
-          {
             "id": "0f77ee3a1039c46e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inicio 10.09.2026/Integrantes.md",
+                "file": "Inicio 10.09.2026/Contrato.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Integrantes"
+              "title": "Contrato"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -128,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inicio 10.09.2026/Integrantes.md",
+                "file": "Inicio 10.09.2026/Contrato.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inicio 10.09.2026/Integrantes.md",
+                "file": "Inicio 10.09.2026/Contrato.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -190,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inicio 10.09.2026/Integrantes.md",
+                "file": "Inicio 10.09.2026/Contrato.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -220,9 +191,11 @@
   },
   "active": "0f77ee3a1039c46e",
   "lastOpenFiles": [
+    "Inicio 10.09.2026/Integrantes.md",
+    "Episodios",
+    "Ideas",
     "conflict-files-obsidian-git.md",
     "Inicio 10.09.2026/Contrato.md",
-    "Inicio 10.09.2026/Integrantes.md",
     "Inicio 10.09.2026/Peticiones de Oración.md",
     "Podcast/Sin título.md",
     "README.md",
