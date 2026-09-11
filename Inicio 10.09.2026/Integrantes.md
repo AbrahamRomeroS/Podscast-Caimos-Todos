@@ -1,5 +1,0 @@
-- Job Barrera
-- Abraham Romero
-- Enohelia Matos
-- Ana Josse
-- Bianca Jimenez

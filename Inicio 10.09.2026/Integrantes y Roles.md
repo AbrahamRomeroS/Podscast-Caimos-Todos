@@ -1,0 +1,5 @@
+- Job Barrera: Expositor y 
+- Abraham Romero: Ingeniero de audio y branding.
+- Enohelia Matos: Edición
+- Ana Josse: Expositor
+- Bianca Jimenez: Cámara
