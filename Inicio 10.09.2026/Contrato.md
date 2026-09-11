@@ -26,3 +26,5 @@ Con este contrato ustedes entregan su alma a este proyecto
 
 
 # Cláusula de 
+=======
+>>>>>>> origin/main
