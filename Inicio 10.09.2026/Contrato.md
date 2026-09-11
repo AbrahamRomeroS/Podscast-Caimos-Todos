@@ -8,10 +8,12 @@ Con este contrato ustedes entregan su alma a este proyecto
 	+ **Roles específicos**: 
 	1. **Área creativa y de talentos:** Host/Conductor principal, Cohost/Copresentador y Guionista/Investigador.
 	2. **Producción:** Productor ejecutivo y Productor de Campo.
-	3. 
+	3. **Área Técnica y de Postproducción:** Técnico de Audio/Ingeniero de sonidos, Editor de Audios, Camarógrafo/Operador de Video y Editor de Videos/Postproductor Visual.
+	4. **Área de Marketing, Distribución y Diseño:** Diseñador gráfico, community manager/gestor de redes sociales, SEO y Distribución.
+
 	+ **Compromiso de Asistencia**:
 
-3. Reparto de ingresos y gastos.
+4. Reparto de ingresos y gastos.
 + Fondo común y Costos
 + Monetización e ingresos
 
